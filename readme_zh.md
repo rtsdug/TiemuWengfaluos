@@ -7,8 +7,8 @@
 ### 1. 克隆仓库：
 
    ```sh
-   git clone https://github.com/YezQiu/Tiemu.git
-   cd Tiemu
+   git clone https://github.com/rtsdug/TiemuWengfaluos.git
+   cd TiemuWengfaluos
    ```
 
    或者使用任何你喜欢的方式将整个项目下载到你的电脑上
