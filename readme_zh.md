@@ -28,7 +28,7 @@
 
 ### 4. 下载模型文件：​​
 
-   - 从 modelscope(https://www.modelscope.cn/models/unsloth/Qwen3-0.6B-GGUF)或官方来源下载 Qwen3-0.6B-Q8_0.gguf模型文件
+   - 从[modelscope](https://www.modelscope.cn/models/unsloth/Qwen3-0.6B-GGUF)或官方来源下载 Qwen3-0.6B-Q8_0.gguf模型文件
    - 将其放入 models文件夹中
 
 
