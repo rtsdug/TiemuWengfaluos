@@ -4,7 +4,7 @@ English|[中文](./readme_zh.md)
 
 ## Quick Start
 
-1. **Clone the repository:**
+### 1. Clone the repository:
 
    ```sh
    git clone https://github.com/YezQiu/Tiemu.git
@@ -13,25 +13,25 @@ English|[中文](./readme_zh.md)
 
    Or use whatever method to get the whole thing into your computer
 
-2. **Create and activate a virtual environment:**
+### 2. Create and activate a virtual environment:
 
    ```sh
    python3 -m venv .venv
    source .venv/bin/activate
    ```
 
-3. **Install dependencies:**
+### 3. Install dependencies:
 
    ```sh
    pip install -r requirements.txt
    ```
 
-4. **Download the model file:**
+### 4. Download the model file:
 
-   - Download `Qwen3-0.6B-Q8_0.gguf` from[modelscope](https://huggingface.co/) or the official source.
+   - Download `Qwen3-0.6B-Q8_0.gguf` from[modelscope](https://www.modelscope.cn/models/unsloth/Qwen3-0.6B-GGUF) or the official source.
    - Place it in the `models` folder.
 
-5. **Run the project:**
+### 5. Run the project:
    ```sh
    python main.py
    ```
