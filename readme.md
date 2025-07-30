@@ -1,4 +1,4 @@
-# Tiemu Project
+# TiemuWengfaluos Project
 
 English|[中文](./readme_zh.md)
 
@@ -7,8 +7,8 @@ English|[中文](./readme_zh.md)
 ### 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/YezQiu/Tiemu.git
-   cd Tiemu
+   git clone https://github.com/rtsdug/TiemuWengfaluos.git
+   cd TiemuWengfaluos
    ```
 
    Or use whatever method to get the whole thing into your computer
